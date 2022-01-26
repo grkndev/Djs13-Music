@@ -23,7 +23,7 @@
 * Kurulum bittikten sonra ```node app.js``` yaz ve botu başlat.
 
 # Kurulum Glitch
-* İlk olarak [Buraya Tıkla](https://glitch.com/edit/#!/remix/kayitbot-v13) seni otomatik olarak proje sayfasına gönlendiricek.
+* İlk olarak [Buraya Tıkla](https://glitch.com/edit/#!/remix/serious-sumptuous-scarecrow) seni otomatik olarak proje sayfasına gönlendiricek.
 * Daha sonra `ayarlar.json`dosyasındaki bilgileri doldur.
 * Kurulum bittikten sonra bot otomatik başlatılacaktır.
 
